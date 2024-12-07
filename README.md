@@ -19,7 +19,7 @@ Hi there, It's me, Mustak Sahariar Miraj. I am trying to learn Web Development f
 
 ### Github Stats
 
-![Dipta Pal's github stats](https://github-readme-stats.vercel.app/api?username=diptapal&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![mustakmiraj5's Stats](https://github-readme-stats.vercel.app/api?username=mustakmiraj5&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ![mustakmiraj5's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustakmiraj5&theme=vue-dark&hide_border=true)
