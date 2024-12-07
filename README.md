@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&size=40&color=f8f8f8&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Github+Profile!)
 
-### Hi there my gorgeous friend
+### Hlw there.....
 
-Hi there, It's me, Mustak Sahariar Miraj. I am trying to learn Web Development from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
+I'm Mustak Sahariar Miraj. I'm trying to learn Web Development from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
 
 :coffee: &emsp;Connect with me!
 
