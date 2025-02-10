@@ -20,9 +20,7 @@ I'm Mustak Sahariar Miraj. I'm dedicated to my work and eager to learn different
 
 ![mustakmiraj5's Stats](https://github-readme-stats.vercel.app/api?username=mustakmiraj5&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
 ![mustakmiraj5's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustakmiraj5&theme=vue-dark&hide_border=true)
-
 
 ![mustakmiraj5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustakmiraj5&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ### Things I code with
